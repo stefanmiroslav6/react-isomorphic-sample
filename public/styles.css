@@ -1,0 +1,16 @@
+li.placeholder {
+  background: rgb(0, 100, 250);
+}
+li.placeholder:before {
+  content: "-- Drop here --";
+  color: rgb(255,240,120);
+}
+ul {
+  list-style: none;
+  margin:0;
+  padding:0
+}
+li {
+  padding: 5px;
+  background:#eee
+}

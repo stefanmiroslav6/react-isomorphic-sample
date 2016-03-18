@@ -1,0 +1,21 @@
+{
+  "name": "react-isomorphic-test",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "~1.0.0",
+    "cookie-parser": "~1.0.0",
+    "ejs": "~0.8.5",
+    "express": "~4.0.0",
+    "path": "*",
+    "react": "~0.12.0"
+  },
+  "devDependencies": {
+    "browserify": "*",
+    "gulp": "~3.8.9",
+    "gulp-browserify": "~0.5.0",
+    "gulp-concat": "~2.4.1",
+    "node-jsx": "*",
+    "react-tools": "^0.12.0",
+    "reactify": "0.15.2"
+  }
+}

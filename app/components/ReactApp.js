@@ -6,6 +6,7 @@ var ReactApp = React.createClass({
   },
   dragStart: function(e) {
     if(!this.placeholder) {
+      // This part should be replaced by creating element on server
       this.placeholder = document.createElement("li");
       this.placeholder.className = "placeholder";
     }

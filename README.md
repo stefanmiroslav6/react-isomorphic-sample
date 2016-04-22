@@ -1,1 +1,1 @@
-React.js Isomorphic example code
+React.js Isomorphic Structure Example
